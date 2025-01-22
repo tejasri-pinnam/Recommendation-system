@@ -3,4 +3,5 @@ pandas
 scikit-learn
 scikit-surprise
 Cython
-numpy>=1.21.6,<1.25
+numpy==1.21.6
+
